@@ -1,0 +1,23 @@
+*, body{
+    margin: 0;
+}
+
+#main_table{
+    margin-top: 20px;
+}
+
+#main_div{
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.tr_orderable:hover{
+    cursor: pointer;
+}
+
+.p_info{
+    height: 35px;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 10px;
+}
